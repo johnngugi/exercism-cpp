@@ -1,0 +1,3 @@
+/home/john/exercism/cpp/etl/CMakeFiles/rebuild_cache.dir
+/home/john/exercism/cpp/etl/CMakeFiles/edit_cache.dir
+/home/john/exercism/cpp/etl/CMakeFiles/etl.dir
