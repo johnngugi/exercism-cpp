@@ -6,17 +6,25 @@
 
 #IncludeRegexTransform: 
 
-/home/john/exercism/cpp/difference-of-squares/difference_of_squares.cpp
-math.h
+/home/john/exercism/cpp/grade-school/grade_school.cpp
+grade_school.h
+/home/john/exercism/cpp/grade-school/grade_school.h
+algorithm
 -
-difference_of_squares.h
-/home/john/exercism/cpp/difference-of-squares/difference_of_squares.h
 
-/home/john/exercism/cpp/difference-of-squares/difference_of_squares.h
+/home/john/exercism/cpp/grade-school/grade_school.h
+string
+-
+vector
+-
+map
+-
 
-/home/john/exercism/cpp/difference-of-squares/difference_of_squares_test.cpp
-difference_of_squares.h
-/home/john/exercism/cpp/difference-of-squares/difference_of_squares.h
+/home/john/exercism/cpp/grade-school/grade_school_test.cpp
+grade_school.h
+/home/john/exercism/cpp/grade-school/grade_school.h
+map
+-
 boost/test/unit_test.hpp
 -
 
