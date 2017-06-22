@@ -1,0 +1,3 @@
+/home/john/exercism/cpp/robot-name/CMakeFiles/rebuild_cache.dir
+/home/john/exercism/cpp/robot-name/CMakeFiles/edit_cache.dir
+/home/john/exercism/cpp/robot-name/CMakeFiles/robot-name.dir
