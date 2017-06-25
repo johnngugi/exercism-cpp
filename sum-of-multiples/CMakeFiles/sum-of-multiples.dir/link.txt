@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11  -rdynamic CMakeFiles/sum-of-multiples.dir/sum_of_multiples_test.cpp.o CMakeFiles/sum-of-multiples.dir/sum_of_multiples.cpp.o  -o sum-of-multiples /usr/local/lib/libboost_unit_test_framework.a /usr/local/lib/libboost_date_time.a /usr/local/lib/libboost_regex.a 
