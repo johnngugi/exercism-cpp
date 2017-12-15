@@ -1,3 +1,0 @@
-/home/john/exercism/cpp/anagram/CMakeFiles/rebuild_cache.dir
-/home/john/exercism/cpp/anagram/CMakeFiles/edit_cache.dir
-/home/john/exercism/cpp/anagram/CMakeFiles/anagram.dir

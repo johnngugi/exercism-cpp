@@ -1,3 +1,6 @@
+#ifndef _PHONE_NUMBER_H
+#define _PHONE_NUMBER_H
+
 #include <string>
 
 class phone_number
@@ -10,3 +13,5 @@ public:
 	std::string area_code() const;
 	operator std::string() const;
 };
+
+#endif // _PHONE_NUMBER_H

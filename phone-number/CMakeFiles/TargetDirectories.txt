@@ -1,3 +1,0 @@
-/home/john/exercism/cpp/phone-number/CMakeFiles/rebuild_cache.dir
-/home/john/exercism/cpp/phone-number/CMakeFiles/edit_cache.dir
-/home/john/exercism/cpp/phone-number/CMakeFiles/phone-number.dir

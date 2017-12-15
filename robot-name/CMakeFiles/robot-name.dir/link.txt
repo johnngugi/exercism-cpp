@@ -1,1 +1,0 @@
-/usr/bin/c++  -std=c++11  -rdynamic CMakeFiles/robot-name.dir/robot_name_test.cpp.o CMakeFiles/robot-name.dir/robot_name.cpp.o  -o robot-name /usr/local/lib/libboost_unit_test_framework.a /usr/local/lib/libboost_date_time.a /usr/local/lib/libboost_regex.a 

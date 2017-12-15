@@ -1,1 +1,0 @@
-/usr/bin/c++  -std=c++11  -rdynamic CMakeFiles/leap.dir/leap_test.cpp.o CMakeFiles/leap.dir/leap.cpp.o  -o leap /usr/local/lib/libboost_unit_test_framework.a /usr/local/lib/libboost_date_time.a /usr/local/lib/libboost_regex.a 
